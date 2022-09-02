@@ -1,6 +1,6 @@
 # SpaceVR
 
-DESCRIPTION
+
 Unity based app that teaches kids about our solar system in VR using firebase and google cardboard.
 
  # WHAT I LEARNED
