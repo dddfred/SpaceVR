@@ -11,3 +11,5 @@ Unity based app that teaches kids about our solar system in VR using firebase an
 - Learned how to use unity application and resources for app development.
 
 For more detailed information about the project, see report. 
+
+Video Demo of the Project -  https://youtu.be/WbnjnTkc7Rs
